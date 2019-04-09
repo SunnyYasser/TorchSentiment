@@ -1,4 +1,4 @@
-# Pytorch implementation of sentiment analyser
+# Pytorch Sentiment Analyser
 - A three layer architecture defined as follows:
 > First, a single embedding layer to convert words into word embeddings.used only for dimensionality reduction and not for learning semantic representations</br></br>
 > Second, a LSTM layer which adds recurrent connections to the model</br></br>
